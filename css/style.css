@@ -1,0 +1,148 @@
+.p1{
+	display: inline;
+	font-size: 25px;
+	color: #fff;
+	font-weight: bold;
+	letter-spacing: 2px;
+	padding-top: 20px;
+}
+.c1{
+	height: 50px;
+	background-color: #110845;
+}
+.i1{
+	padding-right: 7px;
+	color:#f0a294;
+	padding-top: 15px;
+}
+.c2{
+	height: 400px;
+	background-color: #27109e;
+}
+.img1{
+	margin-left:150px;
+	padding-top:40px;
+	float: left;
+}
+.detail{
+	margin-top: 30px;
+	padding-left:700px;
+}
+.i2{
+	color: #ffffff;
+	font-size: 20px;
+	float: left;
+}
+.p2{
+	display: inline;
+	font-size: 15px;
+	color:#000000;
+	font-weight: bold;
+}
+.p3{
+	display: inline;
+	font-size: 15px;
+	color: #fff;
+	font-weight: bold;
+}
+.hr1 {
+  border: 0;
+  border-top: 2px solid #fff;
+  border-bottom: 1px solid #000000;
+  margin-top: 5px;
+  width:500px;
+  margin-left: 0px;
+}
+.c3{
+	background-color: #110845;
+	height: 740px;
+}
+.c4{
+	margin-top: 40px;
+	background-color: #27109e;
+	height: 220px;
+	border-color: #2f0957;
+	border-style: solid;	
+}
+.c5{
+	background-color: #27109e;
+	height: 220px;
+	border-color: #2f0957;
+	border-style: solid;	
+}
+.c6{
+	background-color: #27109e;
+	height: 220px;
+	border-color: #2f0957;
+	border-style: solid;	
+}
+.i3{
+	font-size: 30px;
+	padding-top: 10px;
+	color: #ffffff;
+}
+.p4{
+	display: inline;
+	font-size: 30px;
+	color: #000000;
+	margin-left: 10px;
+}
+.hr2 {
+  border: 0;
+  border-top: 1px solid #1B2F33;
+  border-bottom: 1px solid #1B2F33;
+  margin-top: 0%;
+  margin-left: 45px;
+}
+.i4{
+	font-size: 20px;
+	color: #ffffff;
+	padding-left: 70px;
+}
+.p5{
+	display: inline;
+	font-size: 15px;
+	color: #000000;
+	margin-left: 5px;
+	margin-left: 5px;
+}
+.line1{
+
+}
+
+/*Footer*/
+.c7{
+	background-color: #110845;
+	height: 370px;
+}
+.button {
+
+    background-color: #27109e;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin-top: 40px;	
+    margin-left: 90px;
+    cursor: pointer;
+}
+.button4 {
+	border-radius: 10px;
+}
+.social{
+	font-size: 40px;
+	padding-left: 500px;
+	color: #ffffff;
+}
+.socialp{
+	display: inline;
+	padding-left: 5px;
+	color: #ffffff;
+}
+.c8{
+	height: 30px;
+	background-color: #27109e;
+}
