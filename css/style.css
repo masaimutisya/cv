@@ -55,24 +55,31 @@
 }
 .c3{
 	background-color: #110845;
-	height: 740px;
+	height: 1500px;
 }
 .c4{
 	margin-top: 40px;
 	background-color: #27109e;
-	height: 220px;
+	height: 330px;
 	border-color: #2f0957;
 	border-style: solid;	
 }
 .c5{
 	background-color: #27109e;
-	height: 220px;
+	height: 200px;
 	border-color: #2f0957;
 	border-style: solid;	
 }
+
+.cert{
+	background-color: #27109e;
+	height: 340px;
+	border-color: #2f0957;
+	border-style: solid;
+}
 .c6{
 	background-color: #27109e;
-	height: 220px;
+	height: 330px;
 	border-color: #2f0957;
 	border-style: solid;	
 }
@@ -89,8 +96,8 @@
 }
 .hr2 {
   border: 0;
-  border-top: 1px solid #1B2F33;
-  border-bottom: 1px solid #1B2F33;
+  border-top: 2px solid #ffffff;
+  border-bottom: 1px solid #000000;
   margin-top: 0%;
   margin-left: 45px;
 }
@@ -110,10 +117,21 @@
 
 }
 
+.card{
+	box-sizing: border-box;
+	box-shadow: #0f0f0f;
+}
+
+.card-body{
+
+}
+
+
 /*Footer*/
 .c7{
 	background-color: #110845;
 	height: 370px;
+
 }
 .button {
 
